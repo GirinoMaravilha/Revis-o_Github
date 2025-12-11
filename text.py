@@ -11,3 +11,7 @@ def main():
 
     t = Teste()
     print(t.ola())
+    
+
+if __name__ == "__main__":
+    main()
