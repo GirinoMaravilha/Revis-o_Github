@@ -13,7 +13,7 @@ def main():
     print(t.ola())
     
     #Ola eu sou um comentário
-    #Ola eu sou o segundo comentário
+    #Ola eu sou o segundo comentario legalzao
     
 
 if __name__ == "__main__":
