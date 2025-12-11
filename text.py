@@ -12,6 +12,7 @@ def main():
     t = Teste()
     print(t.ola())
     
+    #Ola eu sou um comentário
 
 if __name__ == "__main__":
     main()
