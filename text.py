@@ -1,3 +1,5 @@
+from unittest.mock import MagicMock
+
 
 class Teste:
     def __init__(self):
@@ -14,6 +16,7 @@ def main():
     
     #Ola eu sou um comentário
     #Ola eu sou o segundo comentário
+    #Ola eu sou o terceiro comentario
     
     
 
