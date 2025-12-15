@@ -7,6 +7,7 @@ class Teste:
         return "Ola, eu sou um teste!"
 
 
+#Função main da gostosa da Astride
 def main():
 
     t = Teste()
@@ -14,6 +15,7 @@ def main():
     
     #Ola eu sou um comentário
     #Ola eu sou o segundo comentário
+    #Olá eu sou um comentario legal
     
     
 
