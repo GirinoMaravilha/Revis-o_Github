@@ -3,6 +3,12 @@ Módulo para testar o comando REBASE do git
 """
 
 class teste1:
+    """
+    Classe para realizar um teste
+
+    Attributes:
+        p (str): Frase qualquer.
+    """
     def __init__(self,p):
         self.p = p
 
@@ -10,7 +16,7 @@ class teste1:
         return self.p
 
 def main():
-    t = teste("Elfa Linda")
+    t = teste1("Elfa Linda")
     t.mostra_p()
 
 if __name__ == "__main__":
