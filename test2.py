@@ -2,6 +2,7 @@
 Módulo para testar o comando REBASE do git
 """
 
+
 # Classes
 class teste2:
     """
@@ -10,7 +11,8 @@ class teste2:
     Attributes:
         p (str): Frase qualquer.
     """
-    def __init__(self,p):
+
+    def __init__(self, p):
         self.p = p
 
     def mostra_p(self):
