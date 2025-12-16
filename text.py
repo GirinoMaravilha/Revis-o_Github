@@ -14,6 +14,8 @@ def main():
     
     #Ola eu sou um comentário
     #Ola eu sou o segundo comentário
+    #A Astride é uma delicia
+    #A Elfa é maravilhosa e linda.
     
     
 
